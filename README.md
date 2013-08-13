@@ -3,3 +3,7 @@ AFSC (Apple File System Compression) tool is an utility that can be used to appl
 afsctool 1.6.4 (build 34)
 
 For updates go to http://brkirch.wordpress.com/afsctool/
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/diimdeep/afsctool/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
